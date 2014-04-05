@@ -1,6 +1,5 @@
 package com.wicomb.scripts.os.framework;
 
-import static com.wicomb.scripts.os.framework.Constants.FLAX;
 import static com.wicomb.scripts.os.framework.Constants.items;
 
 import java.util.concurrent.Callable;
